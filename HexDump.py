@@ -76,7 +76,7 @@ Note: all hexadecimal values should be presented in lowercase.
 
 If the last line is shorter than 16 bytes, then replace the byte values with spaces, but trim the trailing spaces from the end of the line.
 
-For example:
+For example:  
 
 00000000: 1d c4 15 25 91 e6 09 59 04 99 15 29 0a 45 21 29  ...%...Y...).E!)
 00000010: 26 8e 74 a0 1a be 75 68 06 dd 70 33 a4 77 7a 5d  &.t...uh..p3.wz]

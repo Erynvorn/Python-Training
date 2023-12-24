@@ -2,7 +2,7 @@ def checkkey(key):
     if len(key) != 10 : return -1
     test = []
     for i in range(10) :
-        test.append(key[i])
+        test.append(key[i])  
     print(test)
     for i in test :
         if test.count(i) > 1 : return -1

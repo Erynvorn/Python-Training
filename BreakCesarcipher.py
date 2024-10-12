@@ -14,7 +14,7 @@ def break_caesar(message):
     
     
 def rotation(message,index):
-    decode=[]
+    decode=[] 
     m=[]
     for i in message: m.append(i)
     alpha="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
